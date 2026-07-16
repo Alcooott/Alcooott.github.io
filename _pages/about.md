@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将硕士毕业于江苏师范大学人工智能与计算机学院,我的导师是刘小洋教授.
-
-我的研究领域包括多智能体系统控制、多智能体强化学习、流匹配等.
+I will graduate with a Master's degree from the School of Artificial Intelligence and Computer Science, Jiangsu Normal University, under the supervision of Professor Liu Xiaoyang. My research interests include multi-agent system control, multi-agent reinforcement learning, flow matching, and related areas.
 
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Intelligence Science and Technology, School of Computer Science and Technology, Jiangsu Normal University.
 - *2024.09 - now*, Management Science and Engineering, School of Artificial Intelligence and Computer Science, Jiangsu Normal University.
+
 
 # 📝 Publications 
 
@@ -43,8 +42,9 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🔥 News
-- *2025.0919*: &nbsp;🎉🎉 My first paper was accepted by ***Control Theory & Applications*(CAA-B)**. 
-- *2026.0624*: &nbsp;🎉🎉 My paper as co-author was accepted by ***Journal of Systems Science and Mathematical Sciences*(CSCD)**. 
+- *2025.0919*: &nbsp;🎉🎉 My first paper was accepted by ***Control Theory & Applications* (CAA-B)**. 
+- *2026.0509*: &nbsp;🎉🎉 I was invited to be a reviewer for the journal ***IEEE Internet of Things Journal* (SCI Q1)**. 
+- *2026.0624*: &nbsp;🎉🎉 My paper as co-author was accepted by ***Journal of Systems Science and Mathematical Sciences* (CSCD)**. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
