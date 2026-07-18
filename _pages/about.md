@@ -21,8 +21,8 @@ I will graduate with a Master's degree from the School of Artificial Intelligenc
 
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Intelligence Science and Technology, School of Computer Science and Technology, Jiangsu Normal University.
-- *2024.09 - now*, Management Science and Engineering, School of Artificial Intelligence and Computer Science, Jiangsu Normal University.
+- *2020.09 - 2024.06*, School of Computer Science and Technology, Jiangsu Normal University.
+- *2024.09 - now*, School of Artificial Intelligence and Computer Science, Jiangsu Normal University.
 
 
 # 📝 Publications 
