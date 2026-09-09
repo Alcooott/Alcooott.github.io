@@ -27,10 +27,10 @@ I will graduate with a Master's degree from the School of Artificial Intelligenc
 
 # 📝 Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Data-driven edge-triggered intralayer consensus for heterogeneous multiplex MASs with privacy preservation](https://www.sciencedirect.com/science/article/pii/S0020025526010479?dgcid=coauthor), D Yin, X Kong, X Liu, W Yu, **Information Sciences 2026**
 
 # 🔥 News
-- *2026.0904*: &nbsp;🎉🎉 My paper was accepted by ***Information Sciences* (CCF-B)**. 
+- *2026.0903*: &nbsp;🎉🎉 My paper was accepted by ***Information Sciences* (CCF-B)**. 
 - *2026.0902*: &nbsp;🎉🎉 My paper was accepted by ***SCIENCE CHINA Information Sciences* (CCF-A,CAAI-A,CAA-A)**. 
 - *2026.0624*: &nbsp;🎉🎉 My paper as co-author was accepted by ***Journal of Systems Science and Mathematical Sciences* (CSCD)**. 
 - *2026.0509*: &nbsp;🎉🎉 I was invited to be a reviewer for the journal ***IEEE Internet of Things Journal* (SCI Q1)**. 
